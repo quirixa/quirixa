@@ -84,7 +84,16 @@
   <img src="https://img.shields.io/badge/-Intigriti-black?logo=intigriti&logoColor=f9689d" alt="Intigriti" />
 </p>
 
+<!-- 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=crumpledflowers&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
+-->
+
 ---
+
+### ⌛ Total Code Time
+[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@2b756afe-0bc9-45e4-a011-c71cfc529ed1)
 
 <!-- Connect Section -->
 <h2 align="center">
