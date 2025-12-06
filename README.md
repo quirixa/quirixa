@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm crumpledflowers 🌸</h1>
+<h1 align="center">Hey, I'm quirixa 🌸</h1>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/crumpledflowers">
+  <a href="https://github.com/quirixa">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f9689d&center=true&vCenter=true&width=500&lines=tutorial+copy-paster;arduino+tinkerer;web+dev+in+progress;breaking+things+on+purpose;vibing+with+console.logs"
       alt="Typing SVG"
@@ -30,17 +30,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=crumpledflowers&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=quirixa&show_icons=true&theme=radical"
     alt="GitHub Stats"
   />
   <br />
   <img
-    src="https://streak-stats.demolab.com?user=crumpledflowers&theme=radical"
+    src="https://streak-stats.demolab.com?user=quirixa&theme=radical"
     alt="GitHub Streak"
   />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=crumpledflowers&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirixa&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
@@ -87,7 +87,7 @@
 <!-- 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=crumpledflowers&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
+![](https://github-profile-trophy.vercel.app/?username=quirixa&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
 -->
 
 ---
