@@ -105,7 +105,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://x.com/r0sen_r0sen">
+  <a href="https://x.com/quirixa">
     <img
       src="https://img.shields.io/badge/𝑅𝑜𝓈𝑒♱-1DA1F2?style=for-the-badge&logo=X&logoColor=f9689d&color=000000"
       alt="Twitter"
