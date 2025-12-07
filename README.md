@@ -30,13 +30,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=quirixa&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-  />
-  <br />
-  <img
     src="https://streak-stats.demolab.com?user=quirixa&theme=radical"
     alt="GitHub Streak"
+  />
+</p>
+
+<!--
+Other GitHub stats are temporarily disabled:
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=quirixa&show_icons=true&theme=radical"
+    alt="GitHub Stats"
   />
   <br />
   <img
@@ -44,6 +48,8 @@
     alt="Top Languages"
   />
 </p>
+-->
+
 
 ---
 
