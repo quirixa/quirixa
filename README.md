@@ -99,7 +99,7 @@ Other GitHub stats are temporarily disabled:
 ---
 
 ### ⌛ Total Code Time
-[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@2b756afe-0bc9-45e4-a011-c71cfc529ed1)
+[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@9c3793dc-5ab6-47d6-affe-63e4f0adb0a3)
 
 <!-- Connect Section -->
 <h2 align="center">
