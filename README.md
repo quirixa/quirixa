@@ -30,7 +30,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=quirixa&theme=radical"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=quirixa&theme=radical"
     alt="GitHub Streak"
   />
 </p>
