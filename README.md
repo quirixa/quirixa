@@ -26,30 +26,21 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=quirixa&theme=radical"
+    src="https://streak-stats.demolab.com?user=quirixa&theme=dark&background=000000&ring=f9689d&fire=ff9ecf&currStreakNum=ffffff&sideNums=f9689d&currStreakLabel=f9689d&sideLabels=f9689d&dates=ffffff&border=2a2a2a"
     alt="GitHub Streak"
   />
 </p>
 
-
-<!--
-Other GitHub stats are temporarily disabled:
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=quirixa&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-  />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirixa&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=quirixa&show_icons=true&theme=dark&bg_color=000000&title_color=f9689d&icon_color=f9689d&text_color=ffffff&border_color=2a2a2a" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirixa&langs_count=8&layout=compact&theme=dark&bg_color=000000&title_color=f9689d&text_color=ffffff&border_color=2a2a2a" width="350"/>
 </p>
--->
+
+
 
 
 ---
