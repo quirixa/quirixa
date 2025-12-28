@@ -40,9 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirixa&langs_count=8&layout=compact&theme=dark&bg_color=000000&title_color=f9689d&text_color=ffffff&border_color=2a2a2a" width="350"/>
 </p>
 
-
-
-
 ---
 
 ### 🧠 Knowledge / Skills
@@ -107,6 +104,24 @@
     <img
       src="https://img.shields.io/badge/𝑅𝑜𝓈𝑒♱-1DA1F2?style=for-the-badge&logo=X&logoColor=f9689d&color=000000"
       alt="Twitter"
+    />
+  </a>
+  <a href="https://www.tiktok.com/@quirixa.dev">
+    <img
+      src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=f9689d"
+      alt="TikTok"
+    />
+  </a>
+  <a href="https://t.me/quirixa">
+    <img
+      src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f9689d"
+      alt="Telegram"
+    />
+  </a>
+  <a href="https://www.instagram.com/quirixa.dev">
+    <img
+      src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=f9689d"
+      alt="Instagram"
     />
   </a>
 </p>
