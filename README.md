@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm quirixa 🌸</h1>
 
 <!-- Typing SVG -->
+
 <p align="center">
   <a href="https://github.com/quirixa">
     <img
@@ -12,7 +13,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### <img src="https://api.iconify.design/lucide:tool-case.svg?color=%23f9689d" width="18" height="18" alt="Toolbox" /> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
@@ -26,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23f9689d" width="20" height="20" alt="GitHub Stats" /> GitHub Stats
 
 <p align="center">
   <img
@@ -42,7 +43,7 @@
 
 ---
 
-### 🧠 Knowledge / Skills
+### <img src="https://api.iconify.design/lucide:brain.svg?color=%23f9689d" width="18" height="18" alt="Knowledge" /> Knowledge / Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Burp%20Suite-black?logo=burpsuite&logoColor=f9689d" alt="Burp Suite" />
@@ -79,18 +80,14 @@
   <img src="https://img.shields.io/badge/-Intigriti-black?logo=intigriti&logoColor=f9689d" alt="Intigriti" />
 </p>
 
-<!-- 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=quirixa&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
--->
-
 ---
 
-### ⌛ Total Code Time
+### <img src="https://api.iconify.design/lucide:hourglass.svg?color=%23f9689d" width="18" height="18" alt="Time" /> Total Code Time
+
 [![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@9c3793dc-5ab6-47d6-affe-63e4f0adb0a3)
 
 <!-- Connect Section -->
+
 <h2 align="center">
   <img
     src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjZjk2ODlkIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/UmVhY2ggb3V0/karasha.png"
@@ -129,6 +126,7 @@
 <br /><br />
 
 <!-- Footer -->
+
 <p align="center">
   <img
     src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjZjk2ODlkIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBhbiBhcnQsIHNlY3VyaXR5IGlzIGEgbGlmZXN0eWxl/karasha.png"
