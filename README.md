@@ -106,7 +106,7 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://www.tiktok.com/@quirixa.dev">
+  <a href="https://www.tiktok.com/@quirixa.sh">
     <img
       src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=f9689d"
       alt="TikTok"
